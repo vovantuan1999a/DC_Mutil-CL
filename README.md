@@ -1,5 +1,4 @@
 # DC_Mutil-CL
-# MTCL-HepaticVesselSeg2D
 - Implementation of our [paper]() "Dual consistency assisted multi-confident learning for the hepatic vessel segmentation using noisy labels" (2D version).    
 ____
 ## Abstract
