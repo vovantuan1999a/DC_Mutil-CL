@@ -63,10 +63,4 @@ python test_IRCAD_2D_c.py
 ## Citation
 If our work brings some insights to you, please cite our paper as:
 ```
-@artical{xu2021noisylabel,
-  title={Noisy Labels are Treasure: Mean-Teacher-Assisted Confident Learning for Hepatic Vessel Segmentation},
-  author={Zhe Xu, Donghuan Lu, Yixin Wang, Jie Luo, Jagadeesan Jayender, Kai Ma, Yefeng Zheng and Xiu Li},
-  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
-  year={2021}
-}
 ```   
